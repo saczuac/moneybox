@@ -6,5 +6,5 @@ lib/
 pip-selfcheck.json
 *.sqlite3
 media/
-six_counts/settings_env.py
+moneybox/settings_env.py
 db.sqlite3

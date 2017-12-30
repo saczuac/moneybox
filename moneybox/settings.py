@@ -24,7 +24,7 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 
-ROOT_URLCONF = 'six_counts.urls'
+ROOT_URLCONF = 'moneybox.urls'
 
 TEMPLATES = [
     {
@@ -42,7 +42,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'six_counts.wsgi.application'
+WSGI_APPLICATION = 'moneybox.wsgi.application'
 
 AUTH_PASSWORD_VALIDATORS = [
     {
