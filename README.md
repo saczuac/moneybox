@@ -2,7 +2,7 @@
 
 A project in order to help people to take control and knowledge over their own expenses.
 
-![Moneybox icon](master/static/img/money-box.png)
+![Moneybox icon](/static/img/money-box.png)
 
 ## DEVELOP 
 
